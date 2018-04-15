@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ja\desktop\c++ zadania moodle\consoleapplication2\consoleapplication2\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\consoleapplication2\consoleapplication2\source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
